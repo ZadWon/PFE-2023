@@ -1,8 +1,8 @@
 # Client side 
 
-# **EsentutlDump**
+# **BlackExec**
 
-EsentutlDump is a C# program that dumps the SYSTEM, SECURITY, SAM, or NTDS.dit files from the local Windows machine, encrypts them using XOR encryption and uploads the encrypted files to a remote server over TCP.
+BlackExec is a C# program that dumps the SYSTEM, SECURITY, SAM, or NTDS.dit files from the local Windows machine, encrypts them using XOR encryption and uploads the encrypted files to a remote server over TCP.
 
 ## **Features**
 
